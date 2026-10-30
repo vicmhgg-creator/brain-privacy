@@ -1,6 +1,6 @@
 # BRAIN
 
-BRAIN is a personal, single-user tool built and used only by its owner, Víctor Marte
+BRAIN is a personal, single-user tool built and used only by its owner, Víctor
 (vicmhgg-creator). It builds a private searchable memory from the owner's own accounts so the
 owner can ask questions about their own information.
 
